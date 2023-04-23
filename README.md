@@ -1,39 +1,30 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
+## Table of contents
+* [Date created]
+* [Project Title]
+* [Description]
+* [Files used]
+* [Credits]
 
 ### Date created
-<<<<<<< HEAD
 The project was created on 04/21/2023.
 
 ### Project Title
-Bikeshare analyze
+Program to Bikeshare data analysis.
 
 ### Description
 The program is used to display statistics on the total and average trip duration or to display statistics on the most frequent times of travel.
-
-
-### Project Title
-program to Bikeshare analyzing
-
-### Description
-The program can be used to display statistics on the most frequent times of travel or to display statistics on the total and average trip duration.
->>>>>>> documentation
 
 ### Files used
 chicago.csv
 new_york_city.csv
 washington.csv
-<<<<<<< HEAD
 
-=======
-bikeshare.py
->>>>>>> documentation
 
 ### Credits
-<<<<<<< HEAD
+
 https://github.com/udacity/pdsnd_github.git
 https://www.youtube.com/watch?v=xio4A-LpRrA&t=554s
-
+https://docs.github.com
 
 
 
