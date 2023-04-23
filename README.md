@@ -1,3 +1,9 @@
+## Table of contents
+* [Date created]
+* [Project Title]
+* [Description]
+* [Files used]
+* [Credits]
 
 ### Date created
 The project was created on 04/21/2023.
